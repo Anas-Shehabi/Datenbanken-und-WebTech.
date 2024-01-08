@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4387f85f-8273-433d-ad50-cae1353837fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/emensa/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php_installation_&lt;7.4.14&gt;">
+    <include_path>
+      <path value="$PROJECT_DIR$/emensa/vendor/eftec/bladeone" />
+      <path value="$PROJECT_DIR$/emensa/vendor/composer" />
+      <path value="$PROJECT_DIR$/emensa/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/emensa/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/emensa/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/emensa/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/emensa/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/emensa/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/emensa/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/emensa/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/emensa/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/emensa/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/emensa/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/emensa/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/emensa/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/emensa/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/emensa/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/emensa/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/emensa/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/emensa/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/emensa/vendor/illuminate/collections" />
+      <path value="$PROJECT_DIR$/emensa/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/emensa/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/emensa/vendor/illuminate/database" />
+      <path value="$PROJECT_DIR$/emensa/vendor/illuminate/macroable" />
+      <path value="$PROJECT_DIR$/emensa/vendor/illuminate/support" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1lIBD7vyoohUibi25MuHSV8CjFD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="hsqldb&#10;mariadb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../dhrirar/E-Mensa-werbseite" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anass\PhpstormProjects\E-Mensa-werbseite\emensa\views" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Built-in Web Server.werbeseite">
+    <configuration name="anmeldung.blade.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/E-Mensa-werbseite/emensa/views/anmeldung.blade.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="werbeseite" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$/emensa/public" port="9000">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.anmeldung.blade.php" />
+      <item itemvalue="PHP Built-in Web Server.werbeseite" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.anmeldung.blade.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4387f85f-8273-433d-ad50-cae1353837fd" name="Default Changelist" comment="" />
+      <created>1607274602508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607274602508</updated>
+      <workItem from="1607274603558" duration="60924000" />
+      <workItem from="1607518728601" duration="2639000" />
+      <workItem from="1609076589412" duration="53043000" />
+      <workItem from="1610670691910" duration="246000" />
+      <workItem from="1610670939414" duration="193000" />
+      <workItem from="1610671180964" duration="1267000" />
+      <workItem from="1610672457216" duration="1797000" />
+      <workItem from="1610674263794" duration="1794000" />
+      <workItem from="1610676082668" duration="1798000" />
+      <workItem from="1610677890814" duration="1797000" />
+      <workItem from="1610679702053" duration="1257000" />
+      <workItem from="1610732689668" duration="2791000" />
+      <workItem from="1610736966243" duration="71711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="72" key="#CLI_Interpreters" timestamp="1610733772614">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="349" y="72" key="#CLI_Interpreters/0.0.1536.834@0.0.1536.834" timestamp="1610733772614" />
+    <state x="475" y="60" key="#PHP" timestamp="1610733778408">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="475" y="60" key="#PHP/0.0.1536.834@0.0.1536.834" timestamp="1610733778408" />
+    <state x="251" y="53" width="1089" height="776" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610902561110">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1610670754662" />
+    <state x="251" y="53" width="1089" height="776" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1610902561110" />
+    <state x="476" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1609176675201">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="476" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1609176675201" />
+    <state x="545" y="325" key="ComposerInitDialogKey" timestamp="1610672392641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="545" y="325" key="ComposerInitDialogKey/0.0.1536.824@0.0.1536.824" timestamp="1610672392641" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1611062980697">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610671130677" />
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1611062980697" />
+    <state width="1493" height="78" key="GridCell.Tab.0.bottom" timestamp="1611097514813">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="87" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610680299586" />
+    <state width="1493" height="78" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1611097514813" />
+    <state width="1493" height="78" key="GridCell.Tab.0.center" timestamp="1611097514813">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="87" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610680299586" />
+    <state width="1493" height="78" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1611097514813" />
+    <state width="1493" height="78" key="GridCell.Tab.0.left" timestamp="1611097514813">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="87" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610680299586" />
+    <state width="1493" height="78" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1611097514813" />
+    <state width="1493" height="78" key="GridCell.Tab.0.right" timestamp="1611097514813">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="87" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610680299586" />
+    <state width="1493" height="78" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1611097514813" />
+    <state x="489" y="135" key="NewPhpClassDialog" timestamp="1610671451684">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="489" y="135" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1610671451684" />
+    <state x="604" y="340" key="NewPhpFileDialog" timestamp="1611008171771">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="604" y="340" key="NewPhpFileDialog/0.0.1536.834@0.0.1536.834" timestamp="1611008171771" />
+    <state x="277" y="62" key="SettingsEditor" timestamp="1610897931479">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1610897931479" />
+    <state x="1121" y="202" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1610898098736">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="1121" y="202" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1536.834@0.0.1536.834" timestamp="1610898098736" />
+    <state x="615" y="304" width="312" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1610897947612">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="615" y="304" width="312" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.834@0.0.1536.834" timestamp="1610897947612" />
+    <state x="612" y="120" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1611067360229">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="612" y="120" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.834@0.0.1536.834" timestamp="1611067360229" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1607381400171">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1607381400171" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1609162347503">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1609162347503" />
+  </component>
+</project>
